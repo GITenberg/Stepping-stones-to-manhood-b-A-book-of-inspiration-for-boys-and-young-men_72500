@@ -1,5 +1,8 @@
 _repo: Stepping-stones-to-manhood-b-A-book-of-inspiration-for-boys-and-young-men_72500
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72500-h/images/cover.jpg
 creator:
   author:
     agent_name: Pearce, William Peter
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '56707'
     url: http://www.gutenberg.org/2009/agents/56707
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72500#Stepping-stones-to-manhood-b-A-book-of-inspiration-for-boys-and-young-men
 gutenberg_issued: '2023-12-24'
 gutenberg_type: Text
 identifiers:
